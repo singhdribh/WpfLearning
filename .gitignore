@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SimpleTrader/.vs
+/SimpleTrader/SimpleTrader/obj
+/SimpleTrader/SimpleTrader.Domain/bin/Debug/net6.0
+/SimpleTrader/SimpleTrader.Domain/obj
+/SimpleTrader/SimpleTrader.EntityFramework/bin/Debug/net6.0
+/SimpleTrader/SimpleTrader.EntityFramework/obj
